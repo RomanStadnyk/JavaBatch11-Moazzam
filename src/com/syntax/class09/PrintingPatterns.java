@@ -25,7 +25,7 @@ public class PrintingPatterns {
 			}
 
 			System.out.println();
-
+		
 		}
 	}
 }
