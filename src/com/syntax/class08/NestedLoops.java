@@ -37,9 +37,7 @@ public class NestedLoops {
 			}
 		}
 		
-		
 		System.out.println("  --------   Multiplication Table   -------   ");
-		
 		
 		for(int i=1; i<=10; i++) {
 			
@@ -51,6 +49,7 @@ public class NestedLoops {
 			System.out.println(" ----------");
 		}
 		
+		System.out.println("  --------   Clock   -------   ");
 
 	}
 }
